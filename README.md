@@ -7,7 +7,7 @@ We are building a payment ecosystem on Polygon Network.
 - **Contract Address:** `0x5F9016b380782bd98D2C7893e5b2E39e95Dd1378`
 - **Network:** Polygon Mainnet
 - **Ticker:** CRED
-- **Supply:** 100,000 (Deflationary)
+- **Supply:** 100,000 
 
 📂 [Download Logos & Media Kit](https://github.com/Qendl/Galactic-Credit-Standard)
 
